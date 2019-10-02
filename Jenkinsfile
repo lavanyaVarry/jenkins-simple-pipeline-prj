@@ -1,6 +1,6 @@
-@Library('sample-shared-lib') _
+@Library('samplesharedlib') _
 
-standardPipeline {
+ standardPipeline {
     projectName = "Project1"
     serverDomain = "Project1 Server Domain"
 }
