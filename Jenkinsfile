@@ -1,4 +1,4 @@
-@Library("sample-shared-lib") _
+@Library('sample-shared-lib') _
 
 standardPipeline {
     projectName = "Project1"
